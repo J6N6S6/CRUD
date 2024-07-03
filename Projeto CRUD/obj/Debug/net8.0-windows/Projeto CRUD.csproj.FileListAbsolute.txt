@@ -1,0 +1,40 @@
+D:\Repos\Projeto CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.exe
+D:\Repos\Projeto CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.deps.json
+D:\Repos\Projeto CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.runtimeconfig.json
+D:\Repos\Projeto CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.dll
+D:\Repos\Projeto CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.pdb
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\App.g.cs
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD_MarkupCompile.cache
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD_MarkupCompile.lref
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.g.resources
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.AssemblyInfoInputs.cache
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.AssemblyInfo.cs
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.csproj.CoreCompileInputs.cache
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.dll
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\refint\Projeto CRUD.dll
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.pdb
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.genruntimeconfig.cache
+D:\Repos\Projeto CRUD\Projeto CRUD\obj\Debug\net8.0-windows\ref\Projeto CRUD.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.exe
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.deps.json
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.runtimeconfig.json
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Projeto CRUD.pdb
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\App.g.cs
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD_MarkupCompile.cache
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD_MarkupCompile.lref
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.g.resources
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.AssemblyInfoInputs.cache
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.AssemblyInfo.cs
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.csproj.CoreCompileInputs.cache
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.dll
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\refint\Projeto CRUD.dll
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.pdb
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.genruntimeconfig.cache
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\ref\Projeto CRUD.dll
