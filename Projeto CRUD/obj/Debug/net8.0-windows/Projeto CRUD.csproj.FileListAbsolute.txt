@@ -38,3 +38,59 @@ D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\refint\Projeto CRUD.dll
 D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.pdb
 D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.genruntimeconfig.cache
 D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\ref\Projeto CRUD.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Dapper.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Common.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.ReportViewer.Design.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.SqlServer.Types.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.csproj.AssemblyReference.cache
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.sourcelink.json
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto .DC80FD76.Up2Date
