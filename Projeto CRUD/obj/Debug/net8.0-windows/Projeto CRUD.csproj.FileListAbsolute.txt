@@ -94,3 +94,13 @@ D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2
 D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.csproj.AssemblyReference.cache
 D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD.sourcelink.json
 D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto .DC80FD76.Up2Date
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Repos\CRUD\Projeto CRUD\bin\Debug\net8.0-windows\appsettings.json
+D:\Repos\CRUD\Projeto CRUD\obj\Debug\net8.0-windows\Projeto CRUD_Content.g.cs
